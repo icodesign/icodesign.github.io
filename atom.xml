@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://icodesign.me/"/>
-  <updated>2016-11-21T07:53:25.000Z</updated>
+  <updated>2016-11-21T07:56:50.000Z</updated>
   <id>https://icodesign.me/</id>
   
   <author>
@@ -17,10 +17,10 @@
   
   <entry>
     <title>这个博客是如何搭建起来的</title>
-    <link href="https://icodesign.me/uncategorized/hello-world/"/>
-    <id>https://icodesign.me/uncategorized/hello-world/</id>
+    <link href="https://icodesign.me/tutorial/blog-setup/"/>
+    <id>https://icodesign.me/tutorial/blog-setup/</id>
     <published>2016-11-21T04:58:12.000Z</published>
-    <updated>2016-11-21T07:53:25.000Z</updated>
+    <updated>2016-11-21T07:56:50.000Z</updated>
     
     <content type="html"><![CDATA[<p>有空再说</p>
 ]]></content>
@@ -31,6 +31,8 @@
 
     
     </summary>
+    
+      <category term="tutorial" scheme="https://icodesign.me/categories/tutorial/"/>
     
     
   </entry>
